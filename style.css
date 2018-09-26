@@ -1,0 +1,64 @@
+
+body {
+    color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: blue;
+    margin: 0;
+    padding: 1px;
+    margin-top: -25px;
+}
+
+li {
+    display: inline;
+}
+
+aside {
+    background-color: cyan;
+    height: 303px;
+    width: 268px;
+    float: right;
+    margin-top: -303px;
+}
+
+aside p {
+    margin-top: 0px;
+
+}
+
+footer {
+    background-color: green;
+    margin-top: -16px;
+    padding-bottom: 1px;
+}
+
+a:link {
+    color: white;
+}
+
+.titles {
+    text-align: center;
+}
+
+.myArticle {
+    background-color: pink;
+    margin-top: -16px;
+    width: 532px;
+}
+
+.sections {
+    background-color: brown;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 15px;
+    background-color: green;
+    padding-left: 3px;
+}
